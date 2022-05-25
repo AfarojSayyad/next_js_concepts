@@ -18,5 +18,6 @@ export default function(req: NextApiRequest, res:NextApiResponse)
         res.json({admin:false})
     }
 
+    
 
 }
